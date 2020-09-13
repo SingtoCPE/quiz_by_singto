@@ -6,16 +6,16 @@
 
 # **go to directory API**
 
-## >cd API/
+### - cd API/
 
-## >command : yarn install
+### - command : yarn install
 
-## >run API : node app
+### - run API : node app
 
 # **go to directory client**
 
-## >cd client/
+### - cd client/
 
-## >command : yarn install
+### - command : yarn install
 
-## >run client : yarn serve
+### - run client : yarn serve
