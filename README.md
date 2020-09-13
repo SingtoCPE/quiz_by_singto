@@ -19,3 +19,11 @@
 ### - command : yarn install
 
 ### - run client : yarn serve
+
+# **> dump data by quiz_customer.sql**
+
+### - create schema : quiz
+
+### - create table : copy text in quiz_customer.sql
+
+### - create table : run text in quiz_customer.sql on MySQL Workbench or other MySQL tools
