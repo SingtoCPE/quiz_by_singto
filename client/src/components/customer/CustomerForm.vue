@@ -53,7 +53,7 @@
 </template>
 <script>
 export default {
-  name: "ContactsForm",
+  name: "CustomerForm",
   props: {
     isClearForm: {
       type: Boolean,
@@ -65,7 +65,7 @@ export default {
         firstName: "",
         lastName: "",
         phone: "",
-      })
+      }),
     },
   },
   data: () => ({

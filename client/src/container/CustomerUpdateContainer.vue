@@ -34,7 +34,7 @@ import { mapState } from "vuex";
 import CustomerForm from "@/components/customer/CustomerForm.vue";
 
 export default {
-  name: "CustomerCreateContainer",
+  name: "CustomerUpdateContainer",
   components: {
     CustomerForm,
   },

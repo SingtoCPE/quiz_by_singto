@@ -1,10 +1,10 @@
 <template>
-  <v-navigation-drawer 
-    v-model="openDrawer" 
+  <v-navigation-drawer
+    v-model="openDrawer"
     absolute
     left
     app
-    dark  
+    dark
     color="blue-grey darken-4"
     :permanent="$vuetify.breakpoint.mdAndUp"
   >
@@ -26,7 +26,6 @@
         <v-list-item-title class="pl-1">Customer</v-list-item-title>
       </v-list-item>
       <v-divider />
-
     </v-list>
   </v-navigation-drawer>
 </template>
@@ -35,7 +34,7 @@
 import { mapState } from "vuex";
 
 export default {
-  name: "menuBar",
+  name: "MenuBarLayout",
   data: () => ({
     items: [
       { title: "Home", icon: "mdi-dashboard" },
