@@ -41,7 +41,6 @@
         dense
         label="Phone"
         outlined
-        required
         :error-messages="errors"
         :counter="10"
       />

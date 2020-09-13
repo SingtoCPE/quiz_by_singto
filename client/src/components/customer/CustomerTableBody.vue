@@ -13,7 +13,7 @@
                 <v-icon>mdi-dots-horizontal</v-icon>
               </v-btn>
             </template>
-            <v-list width="150" dense>
+            <v-list width="120" dense>
               <list-item-slot
                 list-text="UPDATE"
                 add-color="green lighten-3"
