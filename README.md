@@ -2,9 +2,9 @@
 
 # quiz_by_singto
 
-# Make follow this script
+# Make follow this script.
 
-# **go to directory API**
+# **> go to directory API**
 
 ### - cd API/
 
@@ -12,7 +12,7 @@
 
 ### - run API : node app
 
-# **go to directory client**
+# **> go to directory client**
 
 ### - cd client/
 
