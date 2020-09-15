@@ -10,6 +10,8 @@
 
 ### - command : yarn install
 
+### - set value connect database : set the .env file.(host, username, password database)
+
 ### - run API : node app
 
 # **> go to directory client**
